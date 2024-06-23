@@ -18,3 +18,7 @@ Hướng dẫn sử dụng Venus đã được đề cập chi tiết ở đây:
 
 ## 2. Bắt đầu
 
+
+
+https://github.com/Qyt0109/RISC_V_EMULATOR/assets/92682344/0f26fe1f-2e0b-42d2-9064-a83aee6d63ce
+
